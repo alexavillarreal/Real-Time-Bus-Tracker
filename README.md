@@ -1,2 +1,3 @@
 # Real-Time-Bus-Tracker
-With this bus tracker, you'll be able to track a bus in real time!
+## With this bus tracker, you'll be able to track a bus in real time!
+<img src= MIT_Bus_Tracker.jpg>
